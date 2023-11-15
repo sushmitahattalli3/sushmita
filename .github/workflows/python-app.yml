@@ -26,5 +26,5 @@ jobs:
     
     - name: Python application
       run: |
-        python new.py
+        python new1.py
         
