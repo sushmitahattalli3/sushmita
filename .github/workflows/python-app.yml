@@ -26,4 +26,5 @@ jobs:
     
     - name: Python application
       run: |
-        python gfg.py
+        python new.py
+        
